@@ -8,6 +8,22 @@ All work below is self-initiated concept work for unbranded products, labelled a
 
 ---
 
+## New this month — the fire series (Reels)
+
+| Melting Point | Smoke Signal | Iron & Fire | The Cleanest Cut |
+|:---:|:---:|:---:|:---:|
+| [![Melting Point](week4/cover_pizza.jpg)](https://raw.githubusercontent.com/rabeea-global/pastrami-media/main/week4/reel_pizza.mp4) | [![Smoke Signal](week4/cover_shawarma.jpg)](https://raw.githubusercontent.com/rabeea-global/pastrami-media/main/week4/reel_shawarma.mp4) | [![Iron & Fire](week4/cover_steak.jpg)](https://raw.githubusercontent.com/rabeea-global/pastrami-media/main/week4/reel_steak.mp4) | [![The Cleanest Cut](week4/cover_shinobi.jpg)](https://raw.githubusercontent.com/rabeea-global/pastrami-media/main/week4/reel_shinobi.mp4) |
+| *Pizza. The cheese decides when to let go.* | *Shawarma. Follow the smoke.* | *Steak. Seared hard, served proud.* | *Burger. One stroke of an ink-drawn blade.* |
+
+## One idea per frame
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![It's kebab o'clock](week3/g1_kebab_oclock.jpg) | ![Built layer by layer](week3/g2_shawarma_site.jpg) | ![Every glass holds a river](week3/g3_chai_tigris.jpg) | ![Worth locking up](week3/g4_fries_vault.jpg) |
+| ![Undisputed heavyweight](week3/g5_heavyweight.jpg) | ![The perfect landing](week3/g6_falafel_landing.jpg) | ![Everyone gets a slice](week3/g7_pizza_share.jpg) | ![One pot, the whole family](week3/g8_dolma.jpg) |
+
+---
+
 ## Espresso & coffee
 
 | Free of Noise | Tsunami in a Cup |
